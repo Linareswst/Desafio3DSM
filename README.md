@@ -6,4 +6,3 @@ API : https://6646905851e227f23aaf4374.mockapi.io/api/desafio3/recursos/recursos
 Enlace de video demostrativo: https://youtu.be/k_44eWkui00
 
 Integrantes: Oscar Alejandro Linares López - LL191567
-[Desafío03-DSM.pdf](https://github.com/Linareswst/Desafio3DSM/files/15343353/Desafio03-DSM.pdf)
