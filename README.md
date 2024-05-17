@@ -1,8 +1,7 @@
-# Retrofitappcrud
-Ejemplo para practicar el consumo de API REST desde Andoid Kotlin
+<h1>Desafio 3 - API REST de Recursos educativos con Retrofit - DSM104</h1>
 
-api : https://66240d4504457d4aaf9b8530.mockapi.io/api/escuela/alumno
+Aplicacion realizada en Android Studio + Kotlin. La aplicación consume una API REST del sitio mockapi.io a la cual se le ha realizado un CRUD.
 
-<img src="https://github.com/AlexanderSiguenza/Retrofitappcrud/blob/main/img/app1.png" alt="Descripción de la imagen" width="300" height="600">
-<img src="https://github.com/AlexanderSiguenza/Retrofitappcrud/blob/main/img/app2.png" alt="Descripción de la imagen" width="300" height="600">
-<img src="https://github.com/AlexanderSiguenza/Retrofitappcrud/blob/main/img/app3.png" alt="Descripción de la imagen" width="300" height="600">
+API : https://6646905851e227f23aaf4374.mockapi.io/api/desafio3/recursos/recursos 
+
+Integrantes: Oscar Alejandro Linares López - LL191567
